@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**Ajiva-D/Ajiva-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# Hey, I'm David 👋
+# Hey, I'm David 👋
 
 I'm a **Senior Software Engineer** with 6+ years of experience building product experiences and frontend platforms across fintech, Web3, insurtech, and B2B products.
 
@@ -53,5 +40,3 @@ I'm especially interested in:
 
 🌐 [davidaji.com](https://davidaji.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/david-aji-386197164/)
-- ⚡ Fun fact: ...
--->
